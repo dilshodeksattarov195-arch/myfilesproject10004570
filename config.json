@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerurocess",
+        "uuid": 5086410,
+        "checksum": "lq3acl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
